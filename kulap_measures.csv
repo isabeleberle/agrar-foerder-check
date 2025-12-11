@@ -1,0 +1,8 @@
+id,name,type,reward,effort_score,description,requirements
+K10,Extensive Grünlandnutzung,Grünland,125 €/ha,2,Verzicht auf mineralische Stickstoffdüngung und Pflanzenschutz.,Max. 1.0 Großvieheinheiten pro Hektar.
+K32,Vielfältige Fruchtfolgen mit blühenden Kulturen,Acker,115 €/ha,5,Anbau von mind. 5 Hauptfruchtarten mit min. 10% Leguminosen.,Jährlicher Wechsel der Kulturen.
+K40,Verzicht auf Herbizide (Getreide/Raps),Acker,100 €/ha,6,Mechanische Unkrautregulierung statt Spritzmittel.,Gilt für Wintergetreide und Winterraps.
+I82,Streuobstpflege,Bäume,12 €/Baum,8,Erhaltungsschnitt von Streuobstbäumen.,Nachweis der Sachkunde erforderlich. Hoher manueller Aufwand.
+K56,Mehrjährige Blühflächen,Acker,400-1100 €/ha,4,Anlage von Blühflächen mit speziellen Saatgutmischungen.,Fläche muss 5 Jahre bestehen bleiben.
+K12,Heumilch - Extensive Futtergewinnung,Grünland,100 €/ha,3,Silageverzicht im gesamten Betrieb.,Raufutterfresser müssen gehalten werden.
+K14,Insektenschonende Mahd,Grünland,60 €/ha,5,Einsatz von Messerbalkenmähwerken.,Keine Rotationsmähwerke erlaubt.
